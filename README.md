@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">
+<h2>
   ⌨️⚙️ I code with
 </h2>
 
-<div align="left">
+<div>
   <!-- python -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
